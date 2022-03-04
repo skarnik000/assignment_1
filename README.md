@@ -35,11 +35,17 @@ about many kinds of fruit.
 
 ## Resources
 
-You will need to study the API. Fruityvice API overview - https://www.fruityvice.com/
-Full API documentation -  https://www.fruityvice.com/doc/index.html
+You will need to study the API.
 
-You will need to utilize the following Android classes and tools Activity RecyclerView Retrofit SharedPreferences (for on-device data
-persistence)
+* Fruityvice API overview - https://www.fruityvice.com/
+* Full API documentation -  https://www.fruityvice.com/doc/index.html
+
+You will need to utilize the following Android classes and tools
+
+* Activity
+* RecyclerView
+* Retrofit
+* SharedPreferences (for on-device data persistence)
 
 ## Notes
 
