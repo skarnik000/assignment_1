@@ -52,4 +52,9 @@ You will also need to do some research about the Activity navigation backstack.
 ## Notes
 
 Fruityvice knows their API doesn't include image URLs yet, so it's difficult to make a pretty UI, but do your best. Put a little extra effort
-into making the screens look nice. Consider padding and margin, colors, text sizes, alignment, etc.
+into making the screens look nice. Consider padding and margin, colors, text sizes, alignment, etc.'
+
+## Submission
+
+In order to work on this assignment, you must fork the project to your own repo. Then, when you are ready to submit the completed assignment,
+submit a Pull Request back into my project.  
